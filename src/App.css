@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(0, 0, 0, 0.8);
+  color: white;
+}
+
+.search {
+  width: 40vw;
+  border-radius: 10px;
+}
+
+.card-body {
+  background-color: rgb(0, 0, 0, 0.3);
+  color: white;
+}
+
+.card {
+  border: 1px solid black;
+}
+
+.card-img-top {
+  height: 350px;
+}
+
+.results {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
